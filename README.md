@@ -9,6 +9,7 @@ In this project, i built a TMDB full stack website for user to search Move and T
 ## HomePage
 
 The Home page of this website
+![Alt Text](img/Home.gif)
 <p align="center"><img src="img/Home.gif" alt="HomePage" width="800" /></p>
 
 <!-- ## SearchTab
