@@ -1,10 +1,9 @@
-# TMDB Search Engine
+# TMDB Netfilx Like Website
 
 
 ##  Overview
 
-In this project, i built a TMDB full stack website for user to search Move and TV Show they want
-
+In this project, I built a TMDB full stack website for user to not only find their favorite movies but also share the movies to their friends. User can get all the information for the movies and even watch the trailer here.
 
 ## HomePage
 
