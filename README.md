@@ -27,16 +27,21 @@ Search function
 Detail for any shows on the website including Casts, Reviews, recommend show and similar show.
 <p align="center"><img src="https://media.giphy.com/media/akskUAayxGIxipJNg2/giphy.gif" alt="Detail" width="700" /></p>
 
-## Result of Search
-<iframe src="https://giphy.com/embed/O4EFu6mD3p8zRLGdkw" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/O4EFu6mD3p8zRLGdkw">via GIPHY</a></p>
+## Add to list function 
 
-All the result will be shown below
-<p align="center"><img src="img/SearchResult.png" alt="SearchResult" width="800" /></p>
+User can add any show to their list
+<p align="center"><img src="https://media.giphy.com/media/O4EFu6mD3p8zRLGdkw/giphy.gif" alt="SearchResult" width="700" /></p>
 
-## Show more 
+<p align="center"><img src="img/WatchList.png" alt="SearchResult" width="700" /></p>
 
-After pressing Show More button, the modal will pop out, including the cast and review information
-<p align="center"><img src="img/ShowMore.png" alt="ShowMore" width="800" /></p>
-<p align="center"><img src="img/ShowMore-2.png" alt="ShowMore2" width="800" /></p>
 
+## Show Cast info
+
+After pressing card of cast, show the details.
+<p align="center"><img src="https://media.giphy.com/media/G9fDAllaG6ekhV0FQ2/giphy.gif" alt="Cast detail" width="700" /></p>
+
+## Continue Watching Section
+
+All the views will be memory and show at the homepage
+<p align="center"><img src="img/ContinueWatch.png" alt="SearchResult" width="700" /></p>
 
