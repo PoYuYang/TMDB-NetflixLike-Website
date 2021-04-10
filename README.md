@@ -17,10 +17,10 @@ The Home page of this website
 
 <p align="center"><img src="https://media.giphy.com/media/JE3vrpbc9s1IFEELjE/giphy.gif" alt="Carousel" width="700" /></p>
 
-## SearchTab
+## Search
 
-Search function 
-<p align="center"><img src="img/SearchTab.png" alt="Search" width="800" /></p>
+Auto Complete search function 
+<p align="center"><img src="img/Search.png" alt="Search" width="700" /></p>
 
 ## Detail Section 
 
