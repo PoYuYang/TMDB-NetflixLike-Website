@@ -7,18 +7,19 @@ In this project, I built a TMDB full stack website for user to not only find the
 
 ## HomePage
 
-The Home page of this website
+The Home page of this website.
 
 <p align="center"><img src="https://media.giphy.com/media/GHeS1CY2OawFIf4hKI/giphy.gif" alt="HomePage" width="700" /></p>
 
 
 ## Carousel for Movie and TV Show
 
+Movie and TV Shows show in the carousel form.
 <p align="center"><img src="https://media.giphy.com/media/JE3vrpbc9s1IFEELjE/giphy.gif" alt="Carousel" width="700" /></p>
 
 ## Search
 
-Auto Complete search function 
+Auto Complete search function .
 <p align="center"><img src="img/Search.png" alt="Search" width="700" /></p>
 
 ## Detail Section 
@@ -28,7 +29,7 @@ Detail for any shows on the website including Casts, Reviews, recommend show and
 
 ## Add to list function 
 
-User can add any show to their list
+User can add any show to their list.
 <p align="center"><img src="https://media.giphy.com/media/O4EFu6mD3p8zRLGdkw/giphy.gif" alt="SearchResult" width="700" /></p>
 
 <p align="center"><img src="img/WatchList.png" alt="SearchResult" width="700" /></p>
@@ -41,6 +42,6 @@ After pressing card of cast, show the details.
 
 ## Continue Watching Section
 
-All the views will be memory and show at the homepage
+All the views will be stored and show at the homepage.
 <p align="center"><img src="img/ContinueWatch.png" alt="SearchResult" width="700" /></p>
 
